@@ -1,4 +1,5 @@
 ##Smart Notification Management System
+
 A console-based Java application that demonstrates core Object-Oriented Programming (OOP) concepts and modern Java features through a notification management system.
 Users can send notifications through different channels such as Email, SMS, and PUSH Notifications.
 
